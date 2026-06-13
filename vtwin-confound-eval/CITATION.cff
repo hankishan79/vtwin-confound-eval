@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+title: "V-TWIN: a source-aware, confound-controlled evaluation framework for clinical machine-learning classifiers"
+authors:
+  - family-names: "Ankışhan"
+    given-names: "Haydar"
+    email: "ankishan@ankara.edu.tr"
+    affiliation: "Stem Cell Institute, Ankara University, Ankara, Turkey"
+preferred-citation:
+  type: article
+  title: "Speech-based detection of lung cancer is dominated by demographic and acquisition confounding: a source-aware evaluation framework and a multi-center placebo demonstration"
+  authors:
+    - family-names: "Ankışhan"
+      given-names: "Haydar"
+  journal: "Journal of Biomedical Informatics (under review)"
+  year: 2026
+license: MIT
